@@ -8,6 +8,8 @@ import java.util.Scanner;
 /*
  * 키보드에서 점수를 입력 받아서
  * grade2.txt에 기록해보자
+ * 
+ * git 올리기 연습
  */
 public class FileWriter03 {
 
